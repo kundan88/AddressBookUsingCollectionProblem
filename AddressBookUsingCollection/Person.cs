@@ -39,7 +39,6 @@ namespace AddressBookUsingCollection
             Console.WriteLine("Zip :" + zip);
             Console.WriteLine("PhoneNumber :" + phoneNumber);
             Console.WriteLine("Email :" + email);
-
         }
     }
 }

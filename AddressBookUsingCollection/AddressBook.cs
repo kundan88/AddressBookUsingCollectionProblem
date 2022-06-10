@@ -87,7 +87,6 @@ namespace AddressBookUsingCollection
                 addressBook[index].phoneNumber = Console.ReadLine();
                 Console.WriteLine("Enter Email");
                 addressBook[index].email = Console.ReadLine();
-
             }
             else
                 Console.WriteLine("Entry Not found for the name");
